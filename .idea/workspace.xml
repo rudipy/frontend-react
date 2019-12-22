@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e28a58d7-d420-4a54-b497-d71b3da28544" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rudiyanto &lt;rudi.yanto007@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VFYzKIOkPPLX3mMBPvbbciciJm" />
@@ -75,34 +78,54 @@
       <workItem from="1576850584444" duration="3680000" />
       <workItem from="1576898824877" duration="1578000" />
       <workItem from="1576909085682" duration="3000" />
-      <workItem from="1576909654982" duration="924000" />
+      <workItem from="1576909654982" duration="1007000" />
     </task>
+    <task id="LOCAL-00001" summary="frontend with react">
+      <created>1576915806951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576915806951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="frontend with react" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend with react" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#ESLint" timestamp="1576852420110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1576852420110" />
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1576900825621">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1576915842212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576900825621" />
-    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1576900825620">
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576915842212" />
+    <state width="661" height="180" key="GridCell.Tab.0.bottom" timestamp="1576915858848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576900825620" />
-    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1576900825620">
+    <state width="661" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576915858848" />
+    <state width="661" height="180" key="GridCell.Tab.0.center" timestamp="1576915858848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576900825620" />
-    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1576900825621">
+    <state width="661" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576915858848" />
+    <state width="661" height="180" key="GridCell.Tab.0.left" timestamp="1576915858848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576900825621" />
+    <state width="661" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576915858848" />
+    <state width="661" height="180" key="GridCell.Tab.0.right" timestamp="1576915858848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576915858848" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1576915857786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576915857786" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576850587103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
